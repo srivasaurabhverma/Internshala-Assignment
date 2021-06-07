@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Assignment/static/css/main.c7ac3863.chunk.css",
-    "main.js": "/Assignment/static/js/main.dc956e51.chunk.js",
-    "main.js.map": "/Assignment/static/js/main.dc956e51.chunk.js.map",
-    "runtime-main.js": "/Assignment/static/js/runtime-main.47da36d6.js",
-    "runtime-main.js.map": "/Assignment/static/js/runtime-main.47da36d6.js.map",
-    "static/js/2.6b5c2a5d.chunk.js": "/Assignment/static/js/2.6b5c2a5d.chunk.js",
-    "static/js/2.6b5c2a5d.chunk.js.map": "/Assignment/static/js/2.6b5c2a5d.chunk.js.map",
-    "static/js/3.71188715.chunk.js": "/Assignment/static/js/3.71188715.chunk.js",
-    "static/js/3.71188715.chunk.js.map": "/Assignment/static/js/3.71188715.chunk.js.map",
-    "index.html": "/Assignment/index.html",
-    "static/css/main.c7ac3863.chunk.css.map": "/Assignment/static/css/main.c7ac3863.chunk.css.map",
-    "static/js/2.6b5c2a5d.chunk.js.LICENSE.txt": "/Assignment/static/js/2.6b5c2a5d.chunk.js.LICENSE.txt",
-    "static/media/Form.css": "/Assignment/static/media/Back drop 1.eb8e004d.png"
+    "main.css": "/Internshala-Assignment/static/css/main.b5df5c79.chunk.css",
+    "main.js": "/Internshala-Assignment/static/js/main.dc956e51.chunk.js",
+    "main.js.map": "/Internshala-Assignment/static/js/main.dc956e51.chunk.js.map",
+    "runtime-main.js": "/Internshala-Assignment/static/js/runtime-main.593af539.js",
+    "runtime-main.js.map": "/Internshala-Assignment/static/js/runtime-main.593af539.js.map",
+    "static/js/2.6b5c2a5d.chunk.js": "/Internshala-Assignment/static/js/2.6b5c2a5d.chunk.js",
+    "static/js/2.6b5c2a5d.chunk.js.map": "/Internshala-Assignment/static/js/2.6b5c2a5d.chunk.js.map",
+    "static/js/3.71188715.chunk.js": "/Internshala-Assignment/static/js/3.71188715.chunk.js",
+    "static/js/3.71188715.chunk.js.map": "/Internshala-Assignment/static/js/3.71188715.chunk.js.map",
+    "index.html": "/Internshala-Assignment/index.html",
+    "static/css/main.b5df5c79.chunk.css.map": "/Internshala-Assignment/static/css/main.b5df5c79.chunk.css.map",
+    "static/js/2.6b5c2a5d.chunk.js.LICENSE.txt": "/Internshala-Assignment/static/js/2.6b5c2a5d.chunk.js.LICENSE.txt",
+    "static/media/Form.css": "/Internshala-Assignment/static/media/Back drop 1.eb8e004d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.47da36d6.js",
+    "static/js/runtime-main.593af539.js",
     "static/js/2.6b5c2a5d.chunk.js",
-    "static/css/main.c7ac3863.chunk.css",
+    "static/css/main.b5df5c79.chunk.css",
     "static/js/main.dc956e51.chunk.js"
   ]
 }
