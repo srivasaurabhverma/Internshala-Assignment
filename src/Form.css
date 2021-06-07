@@ -138,6 +138,8 @@ input {
   margin-top: 20px;
 }
 
+/* Adding some  media query for Responsiveness */
+
 @media only screen and (max-width: 992px) {
     
     .form1{

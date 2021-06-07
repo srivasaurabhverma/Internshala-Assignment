@@ -21,6 +21,8 @@
   cursor: pointer;
 }
 
+/* Adding some  media query for Responsiveness */
+
 @media only screen and (max-width: 992px) {
   .f {
     left: 10vw;
