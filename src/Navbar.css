@@ -1,0 +1,89 @@
+.Navbar {
+  background: #33a0d9;
+  height: 9vh;
+}
+
+.nav-link {
+  color: white;
+}
+#logo {
+  /* display: inline; */
+  position: relative;
+  left: 6.94%;
+  right: 80.21%;
+  top: 20.19%;
+  bottom: 12.5%;
+}
+
+#btn {
+  position: relative;
+  right: 0;
+}
+
+/* .lies{
+     display: inline;
+      position: absolute;
+      right: 0;
+      margin: 2px 4px;
+ } */
+
+#one {
+  position: absolute;
+  left: 54.1%;
+  right: 34.51%;
+  top: 34.62%;
+  bottom: 34.62%;
+  font-family: Avenir Next;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 96%;
+  text-align: center;
+
+  /* Button */
+
+  color: #000000;
+}
+
+#two {
+  position: absolute;
+  left: 70.76%;
+  right: 21.12%;
+  top: 34.62%;
+  bottom: 34.62%;
+  font-family: Avenir Next;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 96%;
+  text-align: center;
+  /* or 36px */
+
+  /* Button */
+
+  color: #000000;
+}
+
+.btn {
+  position: absolute;
+  left: 87.15%;
+  right: 2.85%;
+  top: 24.04%;
+  bottom: 24.04%;
+
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 0px 16px;
+}
+
+.btn a {
+  font-family: Avenir Next;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14spx;
+}
+
+#logo img{
+    /* width: 80px; */
+    height: 40px;
+}

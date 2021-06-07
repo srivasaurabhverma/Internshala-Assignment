@@ -1,0 +1,236 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;1,100;1,200&display=swap");
+
+body {
+  background-color: #e5e5e5;
+  overflow: hidden;
+}
+
+.formuse {
+  position: absolute;
+  width: 100vw;
+  height: 494px;
+  left: 0px;
+  top: 34vh;
+
+  background: url("./Images/Back\ drop\ 1.png");
+}
+.form1 {
+  position: relative;
+  /* background-color: rebeccapurple; */
+  width: fit-content;
+  height: 56vh;
+  left: 38vw;
+  top: 10vh;
+}
+
+.title2 {
+  /* position: relative; */
+  /* width: 467px; */
+  height: 58px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 57.6px;
+}
+
+h3 {
+  position: static;
+  /* width: 261px; */
+  height: 33px;
+  left: 0px;
+  top: 0px;
+
+  /* Button Paragraph */
+  margin-top: 10px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 33px;
+  /* identical to box height */
+
+  letter-spacing: 0.205em;
+
+  color: rgba(0, 0, 0, 1);
+}
+
+.btnrest {
+  position: relative;
+  width: 418px;
+  height: 57px;
+  /* color: white; */
+  bottom: 0;
+  background: rgba(0, 0, 0, 1);
+  border-radius: 10px;
+}
+
+#rst {
+  /* position: absolute; */
+  /* width: 286px; */
+  height: 34px;
+  left: 553px;
+  top: 720px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: 0.205em;
+
+  color: #ffffff;
+}
+
+input {
+  /* position: absolute; */
+  /* position: absolute; */
+  width: 417px;
+  height: 45px;
+  left: 483px;
+  top: 578px;
+
+  /* Gray 6 */
+  margin-top: 8px;
+
+  background: #f2f2f2;
+  border: 3px solid #000000;
+  box-sizing: border-box;
+  border-radius: 2px;
+}
+
+.new {
+  margin-top: 29px;
+  margin-bottom: 20px;
+}
+
+#err {
+  color: rgba(235, 87, 87, 1);
+  font-family: Poppins;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 21px;
+  width: 183px;
+  height: 21px;
+  margin-top: 5px;
+}
+
+ 
+
+#newbtn {
+    position: relative;
+    width: 418px;
+    height: 57px;
+    /* color: white; */
+    bottom: -2.5vh;
+    background: rgba(0, 0, 0, 1);
+    border-radius: 10px;
+}
+
+#p_tag {
+  font-family: Avenir Next;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  width: 543px;
+  height: 72px;
+  margin-top: 20px;
+}
+
+@media only screen and (max-width: 992px) {
+    
+    .form1{
+      left:29vw;
+    }
+ }
+
+ @media only screen and (max-width:655px) {
+   
+    .form1{
+        left:10vw;
+      }
+}
+
+@media only screen and (max-width:560px) {
+   
+     #p_tag{
+         width: 343px;
+     }
+
+     .title2{
+        font-size: 35px;
+      }
+
+      #newbtn{
+        width: 343px;
+        margin-top: 20px;
+    }
+}
+
+@media only screen and (max-width:476px) {
+   
+     
+
+      h3{
+          font-size: 19px;
+      }
+
+      input{
+          width: 340px;
+      }
+
+      .btnrest{
+          width: 343px;
+          
+      }
+
+       
+
+       
+}
+
+@media only screen and (max-width:400px) {
+   
+    .form1{
+        left: 6vw;
+    }
+
+}
+
+@media only screen and (max-width:373px) {
+   
+    .form1{
+        left: 3vw;
+    }
+    
+}
+
+@media only screen and (max-width:476px) {
+   
+     .title2{
+         font-size: 32px;
+     }
+
+    h3{
+        font-size: 19px;
+    }
+
+    input{
+        width: 316px;
+    }
+
+    .btnrest{
+        width: 325px;
+        
+    }
+
+    #newbtn{
+        width: 325px;
+
+    }
+
+     
+
+     
+}

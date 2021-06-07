@@ -1,0 +1,84 @@
+.footer {
+  display: flex;
+  position: fixed;
+  width: 100vw;
+  background: #2180b3;
+  height: 88px;
+  bottom: 0;
+}
+
+.f {
+  position: relative;
+  margin-left: 70px;
+  margin-right: 30px;
+  margin-top: 30px;
+  left: 20vw;
+  color: #ffffff;
+  font-family: Avenir Next;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17px;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 992px) {
+  .f {
+    left: 10vw;
+  }
+}
+
+@media only screen and (max-width: 852px) {
+  .f {
+    left: 5vw;
+    margin-left: 40px;
+  }
+}
+
+@media only screen and (max-width: 655px) {
+  .f {
+    font-size: 14px;
+    margin-right: 0;
+    margin-top: 22px;
+  }
+
+  body {
+    height: 90vh;
+  }
+  .footer {
+    height: 10vh;
+  }
+}
+
+@media only screen and (max-width: 494px) {
+  .f {
+    font-size: 14px;
+    margin-left: 22px;
+  }
+}
+
+@media only screen and (max-width: 473px) {
+  .f {
+    font-size: 14px;
+    margin-left: 22px;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  .f {
+    margin-left: 18px;
+    left: 4px;
+  }
+}
+@media only screen and (max-width: 378px) {
+  .f {
+    margin-left: 15px;
+  }
+}
+
+@media only screen and (max-width: 358px) {
+  .f {
+    margin-left: 10px;
+    font-size: 14px;
+  }
+}
+
